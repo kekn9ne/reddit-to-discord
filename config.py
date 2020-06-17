@@ -8,7 +8,7 @@ embed_title = "New Reddit post has arrived!"
 # Max post limit, 10 is recommended
 limit = 10
 
-# Add subreddits to be tracked. You can use as much as subreddit you want.
+# Add subreddits to track. You can use as much as subreddit you want.
 subreddits = ['subreddit1', 'subreddit2']
 
 # Reddit information

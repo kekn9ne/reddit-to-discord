@@ -58,8 +58,7 @@ def run_bot(r):
                     
                     if req.status_code == 204:
                         print("Found new hot Reddit post, sending it to Discord.")
-                   
-
+                
                     blacklist.append(submission)
                     with open("blacklist.txt", "a") as f:
                         f.write(str(submission) + "\n")
