@@ -1,6 +1,6 @@
 # Reddit-To-Discord
 
-Reddit-To-Discord bot gets hot Posts from specified subreddits and sends them to Discord servers using webhook. It's pretty simple to use it.
+Reddit-To-Discord bot gets hot posts from specified subreddits and sends them to Discord servers using webhook. It's pretty simple to use it.
 
 ### Usage
 * Clone this repository.
