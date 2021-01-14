@@ -1,2 +1,4 @@
 praw
 requests
+ffmpeg-python
+discord-webhook
