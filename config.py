@@ -11,6 +11,9 @@ limit = 10
 # Add subreddits to track. You can use as much as subreddit you want.
 subreddits = ['subreddit1', 'subreddit2']
 
+# Set true if you want to remove them.
+remove_title_and_credits = False
+
 # Reddit information
 username = "YOUR REDDIT USERNAME HERE"
 password = "YOUR REDDIT PASSWORD HERE"
